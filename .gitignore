@@ -1,0 +1,8 @@
+*.mp3
+*.wav
+*.m4a
+*.flac
+audio.mp3
+__pycache__/
+*.pyc
+.DS_Store
